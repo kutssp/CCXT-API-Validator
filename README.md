@@ -1,4 +1,4 @@
-# CCXT Exchange Balance Checker
+# CCXT API VALIDATOR
 
 Этот скрипт на Python позволяет проверять баланс аккаунта на криптовалютных биржах с использованием библиотеки **CCXT**.
 
